@@ -9,7 +9,7 @@ body{
       flex-direction: column; 
      align-items: center;
      height: 100vh;
-     background-image: url("a.pdf/phto1.jpg"); 
+     background-image: url("photo1.jpg"); 
      background-size: cover;
      overflow:hidden;
 }
